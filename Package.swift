@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "SpreadsheetView",
             dependencies: [],
-            path: "Sources"
+            path: "Resources"
         ),
         .testTarget(
             name: "SpreadsheetViewTests",
