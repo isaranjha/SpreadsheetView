@@ -18,7 +18,7 @@ let package = Package(
         .target(
             name: "SpreadsheetView",
             dependencies: [],
-            path: "Resources"
+            path: "Framework/Sources"
         ),
     ]
 )
